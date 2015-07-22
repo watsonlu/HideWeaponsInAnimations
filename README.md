@@ -1,4 +1,6 @@
-# HideWeaponsInAnimations
+# Hide Weapons In Animations
+
+This is a KOTOR Mod!
 
 This mod makes it so during some animations equipped weapons become invisible, then become visible again after the animation has played.
 
@@ -8,14 +10,10 @@ The best example of this is Atton typing on the Ebon Hawk. With the mod he'll ty
 
 Original Release thread from a billion years ago:
 
-http://www.lucasforums.com/showthread.php?t=169139
+[Taris Upper City Emporium](http://www.lucasforums.com/showthread.php?t=169139)
 
 This mod is available on the following other sites in non-steam formats:
 
-KOTOR Files:
-
-http://knightsoftheoldrepublic.filefront.com/file/Hide_Weapons_In_Animations;67468
-
-FileFront:
-
-http://www.gamefront.com/files/Hide_Weapons_In_Animatons_V2/;5377442;;/fileinfo.html
+* [KOTOR Files](http://knightsoftheoldrepublic.filefront.com/file/Hide_Weapons_In_Animations;67468)
+* [FileFront](http://www.gamefront.com/files/Hide_Weapons_In_Animatons_V2/;5377442;;/fileinfo.html)
+* [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=485877875)
