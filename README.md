@@ -17,3 +17,4 @@ This mod is available on the following other sites in non-steam formats:
 * [KOTOR Files](http://knightsoftheoldrepublic.filefront.com/file/Hide_Weapons_In_Animations;67468)
 * [FileFront](http://www.gamefront.com/files/Hide_Weapons_In_Animatons_V2/;5377442;;/fileinfo.html)
 * [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=485877875)
+* [TSL Nexus](http://www.nexusmods.com/kotor2/mods/53/?)
